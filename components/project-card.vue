@@ -10,7 +10,7 @@ defineProps<{
     <div class="relative flex w-full flex-col items-center justify-center">
       <div class="relative mb-10 flex items-center justify-center">
         <img src="/bubble1.svg" class="h-full w-full">
-        <img src="device1.png" class="absolute w-5/6">
+        <img src="/device1.png" class="absolute w-5/6">
       </div>
       <p class="text-lg font-medium text-red-400">
         Nasz projekt
