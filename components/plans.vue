@@ -1,5 +1,5 @@
 <template>
-  <section class="px-4 py-12">
+  <section class="px-4 py-12 sm:px-12">
     <p class="text-center text-lg font-medium text-red-400">
       Co dalej?
     </p>

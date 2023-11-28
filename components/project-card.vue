@@ -6,7 +6,7 @@ defineProps<{
 </script>
 
 <template>
-  <section class="flex flex-col items-center justify-center px-4 py-12">
+  <section class="flex flex-col items-center justify-center px-4 sm:px-12 py-12">
     <div class="relative flex w-full flex-col items-center justify-center">
       <div class="relative mb-10 flex items-center justify-center">
         <img src="/bubble1.svg" class="h-full w-full">
@@ -18,7 +18,7 @@ defineProps<{
       <h2 class="relative mb-5 text-4xl font-extrabold text-zinc-100 underline decoration-red-400/25 decoration-[1rem] underline-offset-[-0.5rem]" style="text-decoration-skip-ink: none;">
         {{ title }}
       </h2>
-      <p class="mb-5 text-center leading-normal text-zinc-100">
+      <p class="mb-5 text-center leading-normal text-zinc-100 sm:[text-wrap:balance]">
         {{ description }}
       </p>
       <div class="flex flex-wrap justify-center gap-2">

@@ -1,5 +1,5 @@
 <template>
-  <section class="relative bg-repeat-x px-4 py-8" style="background-image: url('/pattern.svg');">
+  <section class="relative bg-repeat-x px-4 py-8 sm:px-12" style="background-image: url('/pattern.svg');">
     <p class="text-lg font-medium text-zinc-100">
       Chcę się zaaangażować...
     </p>
