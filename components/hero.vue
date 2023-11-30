@@ -1,6 +1,6 @@
 <template>
   <main class="relative h-[calc(100dvh-5.5rem)] px-4 text-center sm:px-12">
-    <div class="flex h-full flex-col items-center justify-center gap-8 lg:mx-auto lg:max-w-screen-xl">
+    <div class="flex h-full flex-col items-center justify-center gap-8 lg:mx-auto lg:max-w-screen-2xl">
       <h1 class="relative text-4xl font-extrabold text-zinc-100 underline decoration-red-400/25 decoration-[1rem] underline-offset-[-0.5rem] sm:text-5xl lg:text-6xl" style="text-decoration-skip-ink: none;">
         Koło naukowe informatyków SGGW
       </h1>
