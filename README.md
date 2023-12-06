@@ -2,6 +2,16 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## Docker
+
+You can use prebuilt docker images to run the project:
+
+```bash
+docker run -d -p 3000:3000/tcp ghcr.io/Mensix/silvernet:latest
+```
+
+`-d` runs the container in the background, `-p` maps the port `3000` from the container to the host.
+
 ## Setup
 
 Make sure to install the dependencies:
